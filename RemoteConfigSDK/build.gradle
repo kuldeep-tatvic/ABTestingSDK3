@@ -42,7 +42,7 @@ afterEvaluate {
                 from components.findByName('release')
 
                 groupId = 'com.github.kuldeep-tatvic'
-                artifactId = 'remote-config-sdk'
+                artifactId = 'ABTestingSDK3'
                 version = '1.0'
             }
         }
