@@ -41,9 +41,9 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.findByName('release')
 
-                groupId = 'com.github.kuldeep-tatvic'
-                artifactId = 'ABTestingSDK3'
-                version = '1.0'
+                groupId = 'com.tagmate'
+                artifactId = 'RemoteConfigSDK'
+                version = '1.3'
             }
         }
     }
